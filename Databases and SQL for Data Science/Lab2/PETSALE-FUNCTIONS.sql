@@ -13,3 +13,4 @@ select COUNT(*) from PETSALE where MONTH(SALEDATE)='05';
 select (SALEDATE + 3 DAYS) from PETSALE;
 select (CURRENT DATE - SALEDATE) from PETSALE;
 
+
